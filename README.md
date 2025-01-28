@@ -35,5 +35,3 @@ The dataset consists of three files:
 
 ## Author
 **Tanmay Tripathi**
-
-Feel free to reach out for collaboration or feedback!
